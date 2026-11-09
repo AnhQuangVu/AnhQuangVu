@@ -1,103 +1,158 @@
+<!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:161B22,70:1E293B,100:A3E635&height=220&section=header&text=V%C5%A8%20QUANG%20ANH&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20SECURITY%20%C2%B7%20DEV%20%C2%B7%20BA&descFontSize=19&descColor=A3E635&descAlignY=60" width="100%" alt="Header Banner" />
+</div>
 
-# Vũ Quang Anh
-### `AI · Security · Dev · BA`
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=A3E635&center=true&vCenter=true&width=650&lines=I+build+systems%2C+learn+the+business+behind+them...;...then+try+to+break+them+before+someone+else+does.;Multi-stack+backend+%E2%86%92+Web+Pentesting+%26+Security;Final-year+Software+Engineering+Student+%40+HOU" alt="Typing Tagline" />
-</a>
+<!-- ===================== TERMINAL ANIMATION ===================== -->
+<div align="center">
+  <a href="https://vuquanganh.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=A3E635&background=0D1117&center=true&vCenter=true&width=750&height=55&lines=root%40vqa%3A~%24+whoami+--role+%22AI+%C2%B7+Security+%C2%B7+Dev+%C2%B7+BA%22;%3E+Final-year+Software+Engineering+Student+%40+Hanoi+Open+University;root%40vqa%3A~%24+cat+philosophy.txt;%3E+%22I+build+systems%2C+learn+the+business%2C+then+break+them+before+others+do.%22;root%40vqa%3A~%24+echo+%22Multi-stack+Backend+%E2%86%92+Web+Pentesting+%26+Logic+Flaws%22" alt="Terminal Typing Animation" />
+  </a>
+</div>
 
 <br/>
 
-<p align="center">
-  <a href="https://vuquanganh.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-vuquanganh.vercel.app-A3E635?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
-  <a href="mailto:vuquanganhnd2005@gmail.com"><img src="https://img.shields.io/badge/Email-vuquanganhnd2005@gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/AnhQuangVu"><img src="https://img.shields.io/badge/GitHub-AnhQuangVu-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
+<!-- ===================== QUICK STATUS BADGES ===================== -->
+<div align="center">
+  <a href="https://vuquanganh.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-vuquanganh.vercel.app-A3E635?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
+  <a href="mailto:vuquanganhnd2005@gmail.com"><img src="https://img.shields.io/badge/✉️_EMAIL-vuquanganhnd2005%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/📍_LOCATION-HANOI%2C_VIETNAM-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/⚡_STATUS-OPEN_TO_OPPORTUNITIES-10B981?style=for-the-badge" alt="Status" />
 </div>
 
----
-
-### `01 // About`
-
-> *"Multi-stack backend background, heading toward penetration testing and bug bounty. I use business understanding to find logic flaws, and AI to automate the repetitive parts."*
-
-- 🎓 **Học vấn:** Sinh viên năm cuối ngành Kỹ thuật Phần mềm — **Đại học Mở Hà Nội (Hanoi Open University)**.
-- 💼 **Kinh nghiệm:** Cựu Thực tập sinh Phát triển Phần mềm & An toàn thông tin tại **Trung tâm Công nghệ Thông tin (Digital Technology Center — HOU)**:
-  - Vận hành & phát triển các hệ thống trường đại học: Thư viện số, Tạp chí khoa học.
-  - Thực hiện pentest có ủy quyền trên các ứng dụng web nội bộ và đề xuất bản vá bảo mật.
-- 📍 **Địa điểm:** Hà Nội, Việt Nam.
+<br/>
 
 ---
 
-### `02 // Four Areas · One Way of Working`
+### 🛰️ `01 // SYSTEM OVERVIEW & ARCHITECTURE`
 
-```
-┌──────────────┬─────────────────────────────────────────────────────────────────────────────┐
-│ 01 — AI      │ Applied AI: Tích hợp LLM vào luồng nghiệp vụ thực (recommendation, matching,│
-│              │ rule-based fallback, human-in-the-loop). Python, FastAPI, Playwright.       │
-├──────────────┼─────────────────────────────────────────────────────────────────────────────┤
-│ 02 — SEC     │ Security: Zero-trust architecture (OIDC/PKCE Keycloak, APISIX edge token    │
-│              │ validation, RBAC + Row Level Security), SHA-256 audit ledger, Web pentest.  │
-├──────────────┼─────────────────────────────────────────────────────────────────────────────┤
-│ 03 — DEV     │ Development: Backend Java 21 / Spring Boot, ASP.NET Core, FastAPI;          │
-│              │ Event-driven (Kafka, MQTT); Ràng buộc toàn vẹn CSDL; Shipped via Docker/CI. │
-├──────────────┼─────────────────────────────────────────────────────────────────────────────┤
-│ 04 — BA      │ Business Analysis: Mô hình hóa tác nhân & phân quyền, BPMN 2.0 (Flowable), │
-│              │ Thiết kế vòng đời trạng thái, đặc tả quy tắc nghiệp vụ & nghiệm thu.       │
-└──────────────┴─────────────────────────────────────────────────────────────────────────────┘
+```yaml
+identity:
+  name: Vũ Quang Anh
+  title: Software Engineer & Security Researcher
+  institution: Hanoi Open University (HOU)
+  experience: Former Dev & AppSec Intern @ Digital Technology Center (HOU)
+
+core_philosophy: >
+  "Multi-stack backend background, heading toward penetration testing and bug bounty.
+   I use business understanding to find logic flaws, and AI to automate the repetitive parts."
+
+focus_pillars:
+  01_AI:  Applied AI & LLMs (human-in-the-loop, rule-based fallback, FastAPI, Playwright)
+  02_SEC: Zero-Trust Security (OIDC/PKCE Keycloak, APISIX Gateway, RBAC + PostgreSQL RLS, Web Pentest)
+  03_DEV: High-Performance Backend (Java 21 / Spring Boot, ASP.NET Core, Kafka, MQTT, Docker)
+  04_BA:  Business Process Analysis (BPMN 2.0 Flowable, DFD, Actor & State Lifecycle Design)
 ```
 
 ---
 
-### `03 // Selected Projects`
+### ⚡ `02 // INTERACTIVE TECH RADAR`
 
-#### 🌊 [FloodOS](https://github.com/AnhQuangVu) *(2026)* — `BA · SEC · DEV · AI`
-*Hệ điều hành mã nguồn mở điều phối ứng phó ngập lụt đô thị Hà Nội — Đề tài tham dự Olympic Phần mềm nguồn mở Việt Nam 2026 (DX-OS Open-Core track).*
-- **BA & BPMN 2.0:** Mô hình hóa 5 vai trò tác nhân; 2 luồng quy trình nghiệp vụ chuẩn BPMN thực thi trên **Flowable** (SOP-01 điều phối cứu trợ, SOP-02 sự cố phương tiện); thiết kế thang điểm cứu hộ 100 điểm & vòng đời 7 trạng thái.
-- **Zero-Trust Security:** SSO OIDC/PKCE qua **Keycloak**; xác thực token tại **Apache APISIX** edge gateway; phân quyền 2 lớp (RBAC + Row Level Security); quét mã độc ClamAV và nhật ký kiểm toán SHA-256 chống giả mạo.
-- **Architecture & Backend:** Lõi hướng sự kiện 3 tầng qua **Kafka** và **MQTT**; **Java 21**, **PostgreSQL 16** (ràng buộc ngăn trùng lịch phương tiện); bản đồ vận hành thời gian thực với **React 19 + MapLibre GL**.
-- **AI Assistant & DevOps:** Trợ lý **FastAPI** gợi ý thứ tự ưu tiên với sự phê duyệt của con người & cơ chế fallback; 429 automated tests, đóng gói container hoàn chỉnh với **Docker Compose**.
+<div align="center">
+  <p><b>Primary Frameworks, Languages & Tooling:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,kafka,fastapi,dotnet,linux,docker,git,postman,react,nextjs,ts,python&perline=7&theme=dark" alt="Tech Icons" />
+  </a>
+</div>
 
-#### 🚀 [StartUp Kit](https://github.com/AnhQuangVu/Startup-Kit-BE) *(2025 — 2026)* — `BA · AI · DEV`
-*Nền tảng kết nối hai chiều (Two-sided Marketplace) giữa Startups, Mentors và Nhà đầu tư.*
-- **Chuyển đổi mô hình:** Tái định hình từ mô hình vườn ươm cố định sang thị trường kết nối theo nhu cầu; cấu trúc 4 đơn vị vận hành và đa dạng dòng doanh thu.
-- **DFD & Đặc tả nghiệp vụ:** Định nghĩa 5 vai trò tác nhân gắn liền sơ đồ DFD; chuẩn hóa 6 quy trình nghiệp vụ cốt lõi kèm tiêu chí nghiệm thu rõ ràng.
-- **Tích hợp AI & Backend:** Tính năng AI tạo hồ sơ, gợi ý mentor và khớp nối nhà đầu tư; RESTful APIs với **Spring Boot (Java)**, **Spring Security & JWT**, **PostgreSQL**, **Next.js** và **Docker**.
-
----
-
-### `04 // Tech Stack & Tooling`
+<br/>
 
 <div align="center">
 
-| Lĩnh vực | Công nghệ / Công cụ chính |
+| Lĩnh vực | Bộ công nghệ & Chuyên môn |
 | :--- | :--- |
-| **Phân tích nghiệp vụ (BA)** | BPMN 2.0 (Flowable) · DFD · Phân tích tác nhân & phân quyền · Vòng đời trạng thái · Kịch bản nghiệm thu |
-| **An toàn thông tin (SEC)** | OIDC / PKCE (Keycloak) · Apache APISIX Gateway · RBAC + PostgreSQL RLS · Web Pentesting (IDOR, Lỗi logic) · SHA-256 Audit · Burp Suite · OWASP Top 10 |
-| **Backend & Hệ thống** | Java 21 · Spring Boot · FastAPI · ASP.NET Core · PostgreSQL 16 · Apache Kafka · MQTT |
-| **Trí tuệ nhân tạo (AI)** | LLM Integration (OpenAI, Gemini) · Rule-based Fallback · Human-in-the-loop · Prompt Engineering · Playwright |
-| **Giao diện & DevOps** | React 19 · Next.js · TypeScript · Docker & Compose · GitHub Actions (CI/CD) · Nginx · Linux VPS |
+| **Bảo mật & Pentest** | `Zero-Trust Architecture` · `OIDC/PKCE (Keycloak)` · `APISIX Gateway` · `PostgreSQL RLS` · `IDOR & Logic Flaws` · `Burp Suite` · `OWASP Top 10` · `SHA-256 Audit Ledger` |
+| **Phân tích nghiệp vụ (BA)** | `BPMN 2.0 (Flowable Engine)` · `DFD Modelling` · `Phân tích tác nhân & ma trận phân quyền` · `7-State Lifecycle` · `Đặc tả kiểm thử & nghiệm thu` |
+| **Backend & Distributed** | `Java 21` · `Spring Boot 3` · `FastAPI` · `ASP.NET Core` · `PostgreSQL 16` · `Apache Kafka` · `MQTT (Event-Driven)` |
+| **Applied AI & DevOps** | `Tích hợp LLM APIs (OpenAI / Gemini)` · `Rule-based Fallback` · `Prompt Engineering` · `Docker & Docker Compose` · `GitHub Actions (CI/CD)` · `Nginx` |
 
 </div>
 
 ---
 
-### `05 // GitHub Activity`
+### 🚀 `03 // FEATURED PROJECTS & CASE STUDIES`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌊 FloodOS (2026)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/OLP_PMNM_2026-DX--OS_Open--Core-38BDF8?style=flat-square" alt="Track" />
+        <img src="https://img.shields.io/badge/Security-Zero--Trust-A3E635?style=flat-square" alt="Security" />
+      </p>
+      <p><b>Hệ điều hành mã nguồn mở điều phối ứng phó ngập lụt đô thị Hà Nội:</b></p>
+      <ul>
+        <li><b>BPMN 2.0 on Flowable:</b> Thực thi tự động quy trình điều phối cứu hộ (SOP-01) & xử lý sự cố xe (SOP-02) theo thang điểm 100.</li>
+        <li><b>Zero-Trust Security:</b> SSO OIDC/PKCE với Keycloak, APISIX Edge validation, RBAC + Row Level Security, SHA-256 tamper-evident ledger.</li>
+        <li><b>Event Core:</b> Pipeline 3 tầng Kafka + MQTT, Java 21, PostgreSQL 16 (DB constraints), bản đồ thời gian thực React 19 + MapLibre GL.</li>
+        <li><b>AI Decision Support:</b> Trợ lý FastAPI gợi ý tuyến ưu tiên có con người phê duyệt.</li>
+      </ul>
+      <p align="center">
+        <a href="https://vuquanganh.vercel.app/#projects"><img src="https://img.shields.io/badge/View_Case_Study-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💡 StartUp Kit (2025 — 2026)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Two--Sided-Marketplace-F59E0B?style=flat-square" alt="Marketplace" />
+        <img src="https://img.shields.io/badge/Architecture-Spring_Boot_3-6DB33F?style=flat-square" alt="Spring" />
+      </p>
+      <p><b>Nền tảng kết nối toàn diện giữa Startups, Mentors và Nhà đầu tư:</b></p>
+      <ul>
+        <li><b>Marketplace Pivot:</b> Chuyển đổi mô hình tăng tốc cố định sang nền tảng on-demand hai chiều với 4 luồng nghiệp vụ tạo doanh thu.</li>
+        <li><b>Actor & DFD Modeling:</b> Chuẩn hóa 5 nhóm tác nhân tương ứng DFD và 6 quy trình nghiệp vụ cốt lõi kèm tiêu chí nghiệm thu.</li>
+        <li><b>AI Matching & Profile:</b> Tự động tạo hồ sơ thông minh, thuật toán ghép nối mentor và phân loại nhà đầu tư phù hợp.</li>
+        <li><b>Core Backend:</b> Spring Boot (Java), Spring Security, JWT, PostgreSQL, Next.js, đóng gói trọn vẹn bằng Docker.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/AnhQuangVu/Startup-Kit-BE"><img src="https://img.shields.io/badge/Backend_Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🐍 `04 // CONTRIBUTION SNAKE EATER`
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnhQuangVu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=94A3B8" alt="GitHub Stats" />
-  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnhQuangVu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A3E635&text_color=94A3B8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnhQuangVu&theme=tokyonight&hide_border=true&background=0D1117&ring=A3E635&fire=A3E635&currStreakLabel=A3E635" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnhQuangVu/AnhQuangVu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnhQuangVu/AnhQuangVu/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AnhQuangVu/AnhQuangVu/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
 
+### 📊 `05 // DYNAMIC PERFORMANCE & METRICS`
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnhQuangVu&show_icons=true&theme=tokyonight&border_color=A3E635&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=E2E8F0&count_private=true" alt="Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnhQuangVu&layout=compact&theme=tokyonight&border_color=A3E635&bg_color=0D1117&title_color=A3E635&text_color=E2E8F0" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://streak-stats.demolab.com?user=AnhQuangVu&theme=dark&background=0D1117&border=A3E635&stroke=A3E635&ring=A3E635&fire=A3E635&currStreakLabel=A3E635" alt="Streak Stats" width="80%" />
+</div>
+
+<br/>
+
+---
+
+<!-- ===================== FOOTER BANNER ===================== -->
 <div align="center">
   <p><i>"Have a problem to solve? Let's make software harder to break. Always open to discuss system architecture, application security challenges, or new collaboration opportunities."</i></p>
-  <sub>🌐 <a href="https://vuquanganh.vercel.app/">vuquanganh.vercel.app</a> &nbsp;•&nbsp; ✉️ <a href="mailto:vuquanganhnd2005@gmail.com">vuquanganhnd2005@gmail.com</a> &nbsp;•&nbsp; 📍 Hanoi, Vietnam</sub>
+  <sub>🌐 <a href="https://vuquanganh.vercel.app/"><b>vuquanganh.vercel.app</b></a> &nbsp;•&nbsp; ✉️ <a href="mailto:vuquanganhnd2005@gmail.com"><b>vuquanganhnd2005@gmail.com</b></a> &nbsp;•&nbsp; 📍 Hanoi, Vietnam</sub>
+  
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:A3E635,40:1E293B,80:161B22,100:0D1117&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
