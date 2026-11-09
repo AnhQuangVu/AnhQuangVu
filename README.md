@@ -84,8 +84,8 @@
 ### 📊 Hoạt động & Chỉ số (Activity & Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnhQuangVu&show_icons=true&theme=tokyonight&border_color=E5383B&bg_color=0D1117&title_color=E5383B&icon_color=E5383B&text_color=E2E8F0&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnhQuangVu&layout=compact&theme=tokyonight&border_color=E5383B&bg_color=0D1117&title_color=E5383B&text_color=E2E8F0" alt="Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnhQuangVu&show_icons=true&theme=tokyonight&border_color=E5383B&bg_color=0D1117&title_color=E5383B&icon_color=E5383B&text_color=E2E8F0&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnhQuangVu&layout=compact&theme=tokyonight&border_color=E5383B&bg_color=0D1117&title_color=E5383B&text_color=E2E8F0" alt="Languages" />
 </div>
 
 <br/>
