@@ -1,30 +1,30 @@
-<!-- ===================== HEADER BANNER ===================== -->
+<!-- ===================== CRIMSON RED HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:161B22,70:1E293B,100:A3E635&height=220&section=header&text=V%C5%A8%20QUANG%20ANH&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20SECURITY%20%C2%B7%20DEV%20%C2%B7%20BA&descFontSize=19&descColor=A3E635&descAlignY=60" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:1A0B0E,65:4A0404,100:E11D48&height=220&section=header&text=V%C5%A8%20QUANG%20ANH&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20SECURITY%20%C2%B7%20DEV%20%C2%B7%20BA&descFontSize=19&descColor=FF3366&descAlignY=60" width="100%" alt="Crimson Red Header" />
 </div>
 
-<!-- ===================== TERMINAL ANIMATION ===================== -->
+<!-- ===================== RED TERMINAL ANIMATION ===================== -->
 <div align="center">
   <a href="https://vuquanganh.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=A3E635&background=0D1117&center=true&vCenter=true&width=750&height=55&lines=root%40vqa%3A~%24+whoami+--role+%22AI+%C2%B7+Security+%C2%B7+Dev+%C2%B7+BA%22;%3E+Final-year+Software+Engineering+Student+%40+Hanoi+Open+University;root%40vqa%3A~%24+cat+philosophy.txt;%3E+%22I+build+systems%2C+learn+the+business%2C+then+break+them+before+others+do.%22;root%40vqa%3A~%24+echo+%22Multi-stack+Backend+%E2%86%92+Web+Pentesting+%26+Logic+Flaws%22" alt="Terminal Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=FF3366&background=0D1117&center=true&vCenter=true&width=750&height=55&lines=root%40vqa%3A~%24+whoami+--role+%22AI+%C2%B7+Security+%C2%B7+Dev+%C2%B7+BA%22;%3E+Final-year+Software+Engineering+Student+%40+Hanoi+Open+University;root%40vqa%3A~%24+cat+philosophy.txt;%3E+%22I+build+systems%2C+learn+the+business%2C+then+break+them+before+others+do.%22;root%40vqa%3A~%24+echo+%22Red+Teaming+%C2%B7+Web+Pentesting+%C2%B7+Logic+Flaws+%C2%B7+Zero-Trust%22" alt="Terminal Typing Animation" />
   </a>
 </div>
 
 <br/>
 
-<!-- ===================== QUICK STATUS BADGES ===================== -->
+<!-- ===================== CRIMSON STATUS BADGES ===================== -->
 <div align="center">
-  <a href="https://vuquanganh.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-vuquanganh.vercel.app-A3E635?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://vuquanganh.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-vuquanganh.vercel.app-E11D48?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:vuquanganhnd2005@gmail.com"><img src="https://img.shields.io/badge/✉️_EMAIL-vuquanganhnd2005%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/📍_LOCATION-HANOI%2C_VIETNAM-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/⚡_STATUS-OPEN_TO_OPPORTUNITIES-10B981?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/⚡_SECURITY-RED_TEAM_%26_APPSEC-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Security" />
 </div>
 
 <br/>
 
 ---
 
-### 🛰️ `01 // SYSTEM OVERVIEW & ARCHITECTURE`
+### 🩸 `01 // SYSTEM OVERVIEW & RED TEAM MINDSET`
 
 ```yaml
 identity:
@@ -46,7 +46,7 @@ focus_pillars:
 
 ---
 
-### ⚡ `02 // INTERACTIVE TECH RADAR`
+### 🔥 `02 // INTERACTIVE TECH RADAR`
 
 <div align="center">
   <p><b>Primary Frameworks, Languages & Tooling:</b></p>
@@ -70,15 +70,15 @@ focus_pillars:
 
 ---
 
-### 🚀 `03 // FEATURED PROJECTS & CASE STUDIES`
+### ⚔️ `03 // FEATURED PROJECTS & CASE STUDIES`
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌊 FloodOS (2026)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/OLP_PMNM_2026-DX--OS_Open--Core-38BDF8?style=flat-square" alt="Track" />
-        <img src="https://img.shields.io/badge/Security-Zero--Trust-A3E635?style=flat-square" alt="Security" />
+        <img src="https://img.shields.io/badge/OLP_PMNM_2026-DX--OS_Open--Core-E11D48?style=flat-square" alt="Track" />
+        <img src="https://img.shields.io/badge/Security-Zero--Trust-DC2626?style=flat-square" alt="Security" />
       </p>
       <p><b>Hệ điều hành mã nguồn mở điều phối ứng phó ngập lụt đô thị Hà Nội:</b></p>
       <ul>
@@ -88,14 +88,14 @@ focus_pillars:
         <li><b>AI Decision Support:</b> Trợ lý FastAPI gợi ý tuyến ưu tiên có con người phê duyệt.</li>
       </ul>
       <p align="center">
-        <a href="https://vuquanganh.vercel.app/#projects"><img src="https://img.shields.io/badge/View_Case_Study-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://vuquanganh.vercel.app/#projects"><img src="https://img.shields.io/badge/View_Case_Study-E11D48?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💡 StartUp Kit (2025 — 2026)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Two--Sided-Marketplace-F59E0B?style=flat-square" alt="Marketplace" />
-        <img src="https://img.shields.io/badge/Architecture-Spring_Boot_3-6DB33F?style=flat-square" alt="Spring" />
+        <img src="https://img.shields.io/badge/Two--Sided-Marketplace-991B1B?style=flat-square" alt="Marketplace" />
+        <img src="https://img.shields.io/badge/Architecture-Spring_Boot_3-DC2626?style=flat-square" alt="Spring" />
       </p>
       <p><b>Nền tảng kết nối toàn diện giữa Startups, Mentors và Nhà đầu tư:</b></p>
       <ul>
@@ -113,46 +113,46 @@ focus_pillars:
 
 ---
 
-### 🐍 `04 // CONTRIBUTION SNAKE EATER`
+### 🐍 `04 // CRIMSON CONTRIBUTION SNAKE`
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnhQuangVu/AnhQuangVu/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnhQuangVu/AnhQuangVu/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AnhQuangVu/AnhQuangVu/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="Crimson GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AnhQuangVu/AnhQuangVu/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
 ---
 
-### 📊 `05 // DYNAMIC PERFORMANCE & METRICS`
+### 📊 `05 // PERFORMANCE & METRICS (BLOOD RED)`
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnhQuangVu&show_icons=true&theme=tokyonight&border_color=A3E635&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=E2E8F0&count_private=true" alt="Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnhQuangVu&show_icons=true&theme=tokyonight&border_color=E11D48&bg_color=0D1117&title_color=FF3366&icon_color=E11D48&text_color=E2E8F0&count_private=true" alt="Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnhQuangVu&layout=compact&theme=tokyonight&border_color=A3E635&bg_color=0D1117&title_color=A3E635&text_color=E2E8F0" alt="Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnhQuangVu&layout=compact&theme=tokyonight&border_color=E11D48&bg_color=0D1117&title_color=FF3366&text_color=E2E8F0" alt="Languages" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://streak-stats.demolab.com?user=AnhQuangVu&theme=dark&background=0D1117&border=A3E635&stroke=A3E635&ring=A3E635&fire=A3E635&currStreakLabel=A3E635" alt="Streak Stats" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=AnhQuangVu&theme=blood&background=0D1117&border=E11D48&stroke=FF3366&ring=E11D48&fire=E11D48&currStreakLabel=FF3366" alt="Streak Stats" width="80%" />
 </div>
 
 <br/>
 
 ---
 
-<!-- ===================== FOOTER BANNER ===================== -->
+<!-- ===================== CRIMSON RED FOOTER ===================== -->
 <div align="center">
   <p><i>"Have a problem to solve? Let's make software harder to break. Always open to discuss system architecture, application security challenges, or new collaboration opportunities."</i></p>
   <sub>🌐 <a href="https://vuquanganh.vercel.app/"><b>vuquanganh.vercel.app</b></a> &nbsp;•&nbsp; ✉️ <a href="mailto:vuquanganhnd2005@gmail.com"><b>vuquanganhnd2005@gmail.com</b></a> &nbsp;•&nbsp; 📍 Hanoi, Vietnam</sub>
   
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:A3E635,40:1E293B,80:161B22,100:0D1117&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:E11D48,40:4A0404,80:1A0B0E,100:0D1117&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
