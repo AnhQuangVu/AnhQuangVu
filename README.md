@@ -1,158 +1,178 @@
-<!-- ===================== CRIMSON RED HEADER ===================== -->
+<!-- ======================================================== -->
+<!--               RED TEAM OPERATIONAL HUD                   -->
+<!-- ======================================================== -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:1A0B0E,65:4A0404,100:E11D48&height=220&section=header&text=V%C5%A8%20QUANG%20ANH&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20SECURITY%20%C2%B7%20DEV%20%C2%B7%20BA&descFontSize=19&descColor=FF3366&descAlignY=60" width="100%" alt="Crimson Red Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090A0F,50:18080B,100:B91C1C&height=120&section=header&text=%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%20%5Broot%40quanganh-sec%3A~%5D%20--%20RED%20TEAM%20HUD&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="Terminal Window Bar" />
 </div>
 
-<!-- ===================== RED TERMINAL ANIMATION ===================== -->
 <div align="center">
   <a href="https://vuquanganh.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=FF3366&background=0D1117&center=true&vCenter=true&width=750&height=55&lines=root%40vqa%3A~%24+whoami+--role+%22AI+%C2%B7+Security+%C2%B7+Dev+%C2%B7+BA%22;%3E+Final-year+Software+Engineering+Student+%40+Hanoi+Open+University;root%40vqa%3A~%24+cat+philosophy.txt;%3E+%22I+build+systems%2C+learn+the+business%2C+then+break+them+before+others+do.%22;root%40vqa%3A~%24+echo+%22Red+Teaming+%C2%B7+Web+Pentesting+%C2%B7+Logic+Flaws+%C2%B7+Zero-Trust%22" alt="Terminal Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=EF4444&background=090A0F&center=true&vCenter=true&width=850&height=45&lines=%3E+INITIALIZING+NETRUNNER+TELEMETRY...;%3E+TARGET%3A+V%C5%A8+QUANG+ANH+%5BAI+%C2%B7+SECURITY+%C2%B7+DEV+%C2%B7+BA%5D;%3E+PHILOSOPHY%3A+%22I+build+systems%2C+learn+the+biz%2C+then+break+them+before+others+do.%22;%3E+OPERATIVE_STATUS%3A+READY_FOR_ENGAGEMENT" alt="Terminal Command Stream" />
   </a>
 </div>
 
-<br/>
-
-<!-- ===================== CRIMSON STATUS BADGES ===================== -->
 <div align="center">
-  <a href="https://vuquanganh.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-vuquanganh.vercel.app-E11D48?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:vuquanganhnd2005@gmail.com"><img src="https://img.shields.io/badge/✉️_EMAIL-vuquanganhnd2005%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/📍_LOCATION-HANOI%2C_VIETNAM-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/⚡_SECURITY-RED_TEAM_%26_APPSEC-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Security" />
+  <a href="https://vuquanganh.vercel.app/"><img src="https://img.shields.io/badge/COMM_BEACON-vuquanganh.vercel.app-EF4444?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Beacon" /></a>
+  <a href="mailto:vuquanganhnd2005@gmail.com"><img src="https://img.shields.io/badge/SECURE_MAIL-vuquanganhnd2005%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Encrypted Mail" /></a>
+  <img src="https://img.shields.io/badge/GRID_COORDS-HANOI%2C_VIETNAM-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Coordinates" />
+  <img src="https://img.shields.io/badge/THREAT_LEVEL-DEFCON_1-DC2626?style=for-the-badge" alt="Defcon" />
 </div>
 
 <br/>
 
----
-
-### 🩸 `01 // SYSTEM OVERVIEW & RED TEAM MINDSET`
-
-```yaml
-identity:
-  name: Vũ Quang Anh
-  title: Software Engineer & Security Researcher
-  institution: Hanoi Open University (HOU)
-  experience: Former Dev & AppSec Intern @ Digital Technology Center (HOU)
-
-core_philosophy: >
-  "Multi-stack backend background, heading toward penetration testing and bug bounty.
-   I use business understanding to find logic flaws, and AI to automate the repetitive parts."
-
-focus_pillars:
-  01_AI:  Applied AI & LLMs (human-in-the-loop, rule-based fallback, FastAPI, Playwright)
-  02_SEC: Zero-Trust Security (OIDC/PKCE Keycloak, APISIX Gateway, RBAC + PostgreSQL RLS, Web Pentest)
-  03_DEV: High-Performance Backend (Java 21 / Spring Boot, ASP.NET Core, Kafka, MQTT, Docker)
-  04_BA:  Business Process Analysis (BPMN 2.0 Flowable, DFD, Actor & State Lifecycle Design)
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  [0x01] OPERATIVE SPECIFICATION // DOSSIER                                                          ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                      ║
+║  NAME         : Vũ Quang Anh (Anh Quang Vũ)                                                          ║
+║  CALLSIGN     : VQA / Netrunner                                                                      ║
+║  CLEARANCE    : Final-Year Software Engineering Student @ Hanoi Open University (HOU)                ║
+║  FIELD EXP    : Former Software Dev & AppSec Intern @ Digital Technology Center (DTC - HOU)          ║
+║  PHILOSOPHY   : "I build systems, learn the business behind them, then break them before others do." ║
+║                                                                                                      ║
+║  TACTICAL PILLARS:                                                                                   ║
+║  ├── [AI]  Applied AI     : Integrating LLMs, human-in-the-loop, rule-based fallbacks, FastAPI       ║
+║  ├── [SEC] Zero-Trust     : Keycloak OIDC/PKCE, APISIX Edge Gateway, PostgreSQL RLS, Web Pentest     ║
+║  ├── [DEV] Backend Core   : Java 21 / Spring Boot 3, Kafka, MQTT, ASP.NET Core, Docker, PostgreSQL   ║
+║  └── [BA]  Analysis & DFD : BPMN 2.0 (Flowable), Actor Matrix, 7-State Lifecycles, Acceptance Specs ║
+║                                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
-
-### 🔥 `02 // INTERACTIVE TECH RADAR`
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  [0x02] COMBAT ARSENAL // SKILL MATRIX & PROFICIENCY HUD                                            ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                      ║
+║  CORE CAPABILITIES                PROFICIENCY LEVEL                     DESIGNATION                  ║
+║  ──────────────────────────────────────────────────────────────────────────────────────────────────  ║
+║  Zero-Trust & Web Pentest         [████████████████████████░] 92%       THREAT_RECON / LOGIC_HUNT    ║
+║  Java 21 & Spring Boot Core       [█████████████████████░░░] 86%       MISSION_CRITICAL_BACKEND     ║
+║  Event-Driven (Kafka & MQTT)      [████████████████████░░░░] 82%       DISTRIBUTED_PIPELINES        ║
+║  BPMN 2.0 (Flowable) & BA         [███████████████████░░░░░] 80%       PROCESS_ORCHESTRATION        ║
+║  Applied AI & FastAPI Workflows   [████████████████████░░░░] 82%       AUTOMATION_AUGMENTATION      ║
+║  PostgreSQL (RLS & Integrity)     [█████████████████████░░░] 85%       HARDENED_STORAGE             ║
+║                                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
-  <p><b>Primary Frameworks, Languages & Tooling:</b></p>
+  <p><b>[DEPLOYED TOOLCHAIN & WEAPONRY]</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,kafka,fastapi,dotnet,linux,docker,git,postman,react,nextjs,ts,python&perline=7&theme=dark" alt="Tech Icons" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,kafka,fastapi,dotnet,linux,docker,git,postman,react,nextjs,ts,python&perline=7&theme=dark" alt="Toolchain" />
   </a>
 </div>
 
 <br/>
 
-<div align="center">
-
-| Lĩnh vực | Bộ công nghệ & Chuyên môn |
-| :--- | :--- |
-| **Bảo mật & Pentest** | `Zero-Trust Architecture` · `OIDC/PKCE (Keycloak)` · `APISIX Gateway` · `PostgreSQL RLS` · `IDOR & Logic Flaws` · `Burp Suite` · `OWASP Top 10` · `SHA-256 Audit Ledger` |
-| **Phân tích nghiệp vụ (BA)** | `BPMN 2.0 (Flowable Engine)` · `DFD Modelling` · `Phân tích tác nhân & ma trận phân quyền` · `7-State Lifecycle` · `Đặc tả kiểm thử & nghiệm thu` |
-| **Backend & Distributed** | `Java 21` · `Spring Boot 3` · `FastAPI` · `ASP.NET Core` · `PostgreSQL 16` · `Apache Kafka` · `MQTT (Event-Driven)` |
-| **Applied AI & DevOps** | `Tích hợp LLM APIs (OpenAI / Gemini)` · `Rule-based Fallback` · `Prompt Engineering` · `Docker & Docker Compose` · `GitHub Actions (CI/CD)` · `Nginx` |
-
-</div>
-
----
-
-### ⚔️ `03 // FEATURED PROJECTS & CASE STUDIES`
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  [0x03] ACTIVE OPERATIONS // CLASSIFIED PROJECTS                                                     ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌊 FloodOS (2026)</h3>
+    <td width="50%" valign="top" style="border: 1px solid #DC2626;">
+      <h3 align="center">🚨 OPERATION 01: FloodOS (2026)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/OLP_PMNM_2026-DX--OS_Open--Core-E11D48?style=flat-square" alt="Track" />
-        <img src="https://img.shields.io/badge/Security-Zero--Trust-DC2626?style=flat-square" alt="Security" />
+        <img src="https://img.shields.io/badge/TRACK-OLP_PMNM_2026-DC2626?style=flat-square" />
+        <img src="https://img.shields.io/badge/SECURITY-ZERO--TRUST-991B1B?style=flat-square" />
+        <img src="https://img.shields.io/badge/CORE-JAVA_21_%2B_KAFKA-18181B?style=flat-square" />
       </p>
-      <p><b>Hệ điều hành mã nguồn mở điều phối ứng phó ngập lụt đô thị Hà Nội:</b></p>
+      <b>Hệ điều hành mã nguồn mở điều phối ứng phó ngập lụt đô thị Hà Nội:</b>
       <ul>
-        <li><b>BPMN 2.0 on Flowable:</b> Thực thi tự động quy trình điều phối cứu hộ (SOP-01) & xử lý sự cố xe (SOP-02) theo thang điểm 100.</li>
-        <li><b>Zero-Trust Security:</b> SSO OIDC/PKCE với Keycloak, APISIX Edge validation, RBAC + Row Level Security, SHA-256 tamper-evident ledger.</li>
-        <li><b>Event Core:</b> Pipeline 3 tầng Kafka + MQTT, Java 21, PostgreSQL 16 (DB constraints), bản đồ thời gian thực React 19 + MapLibre GL.</li>
-        <li><b>AI Decision Support:</b> Trợ lý FastAPI gợi ý tuyến ưu tiên có con người phê duyệt.</li>
+        <li><b>BPMN 2.0 Orchestration:</b> Mô hình hóa 5 nhóm tác nhân; thực thi quy trình chuẩn SOP-01 (điều phối cứu hộ) & SOP-02 (sự cố xe) trên <b>Flowable</b>; thiết kế thang điểm cứu nạn 100 điểm.</li>
+        <li><b>Zero-Trust Security:</b> Xác thực OIDC/PKCE qua <b>Keycloak</b>; xác minh token tại <b>APISIX Gateway</b>; phân quyền kép (RBAC + Row-Level Security); quét malware ClamAV và nhật ký SHA-256 chống sửa đổi.</li>
+        <li><b>Distributed Core:</b> Xử lý bất đồng bộ qua <b>Kafka & MQTT</b>; ràng buộc CSDL ngăn xung đột lịch xe; bản đồ trực quan <b>React 19 + MapLibre GL</b>.</li>
+        <li><b>AI Co-Pilot:</b> Trợ lý <b>FastAPI</b> gợi ý tuyến cứu hộ ưu tiên kèm kiểm duyệt nhân sự (Human-in-the-loop).</li>
       </ul>
       <p align="center">
-        <a href="https://vuquanganh.vercel.app/#projects"><img src="https://img.shields.io/badge/View_Case_Study-E11D48?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://vuquanganh.vercel.app/#projects"><img src="https://img.shields.io/badge/INTEL_REPORT-VIEW_LIVE_DEMO-DC2626?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💡 StartUp Kit (2025 — 2026)</h3>
+    <td width="50%" valign="top" style="border: 1px solid #DC2626;">
+      <h3 align="center">💼 OPERATION 02: StartUp Kit (2025 — 2026)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Two--Sided-Marketplace-991B1B?style=flat-square" alt="Marketplace" />
-        <img src="https://img.shields.io/badge/Architecture-Spring_Boot_3-DC2626?style=flat-square" alt="Spring" />
+        <img src="https://img.shields.io/badge/TYPE-TWO--SIDED_MARKET-DC2626?style=flat-square" />
+        <img src="https://img.shields.io/badge/FRAMEWORK-SPRING_BOOT_3-991B1B?style=flat-square" />
+        <img src="https://img.shields.io/badge/CONTAINER-DOCKER-18181B?style=flat-square" />
       </p>
-      <p><b>Nền tảng kết nối toàn diện giữa Startups, Mentors và Nhà đầu tư:</b></p>
+      <b>Nền tảng kết nối hai chiều Startups, Mentors và Nhà đầu tư xã hội:</b>
       <ul>
-        <li><b>Marketplace Pivot:</b> Chuyển đổi mô hình tăng tốc cố định sang nền tảng on-demand hai chiều với 4 luồng nghiệp vụ tạo doanh thu.</li>
-        <li><b>Actor & DFD Modeling:</b> Chuẩn hóa 5 nhóm tác nhân tương ứng DFD và 6 quy trình nghiệp vụ cốt lõi kèm tiêu chí nghiệm thu.</li>
-        <li><b>AI Matching & Profile:</b> Tự động tạo hồ sơ thông minh, thuật toán ghép nối mentor và phân loại nhà đầu tư phù hợp.</li>
-        <li><b>Core Backend:</b> Spring Boot (Java), Spring Security, JWT, PostgreSQL, Next.js, đóng gói trọn vẹn bằng Docker.</li>
+        <li><b>Business Pivot:</b> Chuyển đổi từ mô hình ươm tạo tĩnh sang thị trường on-demand; phân bổ 4 khối vận hành và xây dựng các luồng thu phí dịch vụ.</li>
+        <li><b>DFD Architecture:</b> Đặc tả chi tiết 5 luồng tác nhân trên DFD; chuẩn hóa 6 quy trình nghiệp vụ trọng yếu kèm kịch bản nghiệm thu (Acceptance Criteria).</li>
+        <li><b>AI Workflow:</b> Tự động sinh hồ sơ doanh nghiệp bằng AI, khớp nối cố vấn và phân tích khẩu vị đầu tư.</li>
+        <li><b>Backend Hardening:</b> Xây dựng RESTful API với <b>Spring Boot (Java)</b>, <b>Spring Security + JWT</b>, <b>PostgreSQL</b> và container hóa trọn gói.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/AnhQuangVu/Startup-Kit-BE"><img src="https://img.shields.io/badge/Backend_Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/AnhQuangVu/Startup-Kit-BE"><img src="https://img.shields.io/badge/CODEBASE-SPRING_BOOT_BE-18181B?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 🐍 `04 // CRIMSON CONTRIBUTION SNAKE`
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  [0x04] NETWORK TELEMETRY // CONTRIBUTION PACKET TRAIL                                               ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnhQuangVu/AnhQuangVu/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnhQuangVu/AnhQuangVu/output/github-contribution-grid-snake.svg">
-    <img alt="Crimson GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AnhQuangVu/AnhQuangVu/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="Crimson Snake Trail" src="https://raw.githubusercontent.com/AnhQuangVu/AnhQuangVu/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
----
+<br/>
 
-### 📊 `05 // PERFORMANCE & METRICS (BLOOD RED)`
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  [0x05] RADAR TELEMETRY // SYSTEM ACTIVITY HUD                                                       ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnhQuangVu&show_icons=true&theme=tokyonight&border_color=E11D48&bg_color=0D1117&title_color=FF3366&icon_color=E11D48&text_color=E2E8F0&count_private=true" alt="Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnhQuangVu&show_icons=true&theme=tokyonight&border_color=DC2626&bg_color=090A0F&title_color=EF4444&icon_color=DC2626&text_color=E2E8F0&count_private=true" alt="Stats HUD" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnhQuangVu&layout=compact&theme=tokyonight&border_color=E11D48&bg_color=0D1117&title_color=FF3366&text_color=E2E8F0" alt="Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnhQuangVu&layout=compact&theme=tokyonight&border_color=DC2626&bg_color=090A0F&title_color=EF4444&text_color=E2E8F0" alt="Languages HUD" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://streak-stats.demolab.com?user=AnhQuangVu&theme=blood&background=0D1117&border=E11D48&stroke=FF3366&ring=E11D48&fire=E11D48&currStreakLabel=FF3366" alt="Streak Stats" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=AnhQuangVu&theme=blood&background=090A0F&border=DC2626&stroke=EF4444&ring=DC2626&fire=DC2626&currStreakLabel=EF4444" alt="Streak Radar" width="85%" />
 </div>
 
 <br/>
 
----
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  [0x06] ENCRYPTED COMM BEACON // GET IN TOUCH                                                        ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                      ║
+║  "Always open to discuss system architecture, application security challenges,                       ║
+║   or new mission collaboration opportunities."                                                       ║
+║                                                                                                      ║
+║  PORTFOLIO : https://vuquanganh.vercel.app/                                                          ║
+║  EMAIL     : vuquanganhnd2005@gmail.com                                                              ║
+║  LOCATION  : Hanoi, Vietnam                                                                          ║
+║  SESSION   : [TERMINATED // STANDBY MODE]                                                            ║
+║                                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
-<!-- ===================== CRIMSON RED FOOTER ===================== -->
 <div align="center">
-  <p><i>"Have a problem to solve? Let's make software harder to break. Always open to discuss system architecture, application security challenges, or new collaboration opportunities."</i></p>
-  <sub>🌐 <a href="https://vuquanganh.vercel.app/"><b>vuquanganh.vercel.app</b></a> &nbsp;•&nbsp; ✉️ <a href="mailto:vuquanganhnd2005@gmail.com"><b>vuquanganhnd2005@gmail.com</b></a> &nbsp;•&nbsp; 📍 Hanoi, Vietnam</sub>
-  
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:E11D48,40:4A0404,80:1A0B0E,100:0D1117&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B91C1C,50:18080B,100:090A0F&height=40&section=footer" width="100%" alt="Terminal Footer Bar" />
 </div>
