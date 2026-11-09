@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,30:2B090E,65:660708,100:E5383B&height=190&section=header&text=V%C5%A8%20QUANG%20ANH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20SECURITY%20%C2%B7%20DEV%20%C2%B7%20BA&descFontSize=17&descColor=E5383B&descAlignY=62" width="100%" alt="Header" />
 
   <a href="https://vuquanganh.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=E5383B&center=true&vCenter=true&width=650&height=35&lines=Final-year+Software+Engineering+Student+%40+HOU;Zero-Trust+Security+%C2%B7+Backend+Development+%C2%B7+Applied+AI;%22I+build+systems%2C+learn+the+business%2C+then+break+them+first.%22" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=E5383B&center=true&vCenter=true&width=700&height=35&lines=Final-year+Software+Engineering+Student+%40+Hanoi+Open+University;Zero-Trust+Security+%C2%B7+Backend+Development+%C2%B7+Applied+AI;%22I+build+systems%2C+learn+the+business%2C+then+break+them+first.%22" alt="Typing Tagline" />
   </a>
 
   <p align="center">
@@ -20,9 +20,9 @@
 > *"Multi-stack backend background, heading toward penetration testing and bug bounty. I use business understanding to find logic flaws, and AI to automate the repetitive parts."*
 
 - 🎓 **Học vấn:** Sinh viên năm cuối ngành Kỹ thuật Phần mềm — **Đại học Mở Hà Nội (HOU)**.
-- 🛡️ **Bảo mật & Pentest:** Tập trung vào kiến trúc **Zero-Trust** (OIDC/PKCE Keycloak, APISIX Edge Gateway), phân quyền kép **RBAC + PostgreSQL RLS**, kiểm toán SHA-256 và rà soát lỗi logic nghiệp vụ / IDOR.
+- 🛡️ **Bảo mật & Pentest:** Kiến trúc **Zero-Trust** (OIDC/PKCE Keycloak, APISIX Edge Gateway), phân quyền kép **RBAC + PostgreSQL RLS**, nhật ký kiểm toán SHA-256 và rà quét lỗi logic nghiệp vụ / IDOR.
 - ⚡ **Backend & Hệ thống:** Chuyên sâu **Java 21 / Spring Boot 3**, **FastAPI**, **ASP.NET Core**, kiến trúc hướng sự kiện qua **Apache Kafka & MQTT**.
-- 🤖 **Applied AI & BA:** Tích hợp mô hình ngôn ngữ lớn (LLM) kèm cơ chế rule-based fallback; phân tích nghiệp vụ & mô hình hóa quy trình **BPMN 2.0 (Flowable Engine)** & **DFD**.
+- 🤖 **Applied AI & BA:** Tích hợp mô hình ngôn ngữ lớn (LLM) với cơ chế rule-based fallback & human-in-the-loop; mô hình hóa quy trình chuẩn **BPMN 2.0 (Flowable Engine)** & **DFD**.
 - 💼 **Kinh nghiệm:** Cựu Thực tập sinh Phát triển phần mềm & Bảo mật tại **Trung tâm Công nghệ Thông tin (DTC — HOU)**.
 
 ---
@@ -39,37 +39,33 @@
 
 <div align="center">
 
-| Lĩnh vực | Công nghệ trọng tâm |
+| Lĩnh vực | Bộ công nghệ & Chuyên môn trọng tâm |
 | :--- | :--- |
 | **Security & Pentest** | `Zero-Trust Architecture` `Keycloak (OIDC/PKCE)` `APISIX Gateway` `PostgreSQL RLS` `Burp Suite` `OWASP Top 10` |
 | **Backend & Distributed** | `Java 21` `Spring Boot 3` `FastAPI` `ASP.NET Core` `PostgreSQL 16` `Apache Kafka` `MQTT` |
-| **Business Analysis (BA)** | `BPMN 2.0 (Flowable)` `DFD Modelling` `Phân tích tác nhân` `7-State Lifecycle` `Kịch bản nghiệm thu` |
-| **AI & Automation** | `LLM Integration` `Prompt Engineering` `Rule-based Fallback` `Human-in-the-loop` `Playwright` |
+| **Business Analysis (BA)** | `BPMN 2.0 (Flowable)` `DFD Modelling` `Phân tích tác nhân & phân quyền` `7-State Lifecycle` `Kịch bản nghiệm thu` |
+| **Applied AI & Automation** | `LLM Integration` `Prompt Engineering` `Rule-based Fallback` `Human-in-the-loop` `Playwright` |
 | **Frontend & DevOps** | `React 19` `Next.js` `TypeScript` `Docker & Compose` `CI/CD (GitHub Actions)` `Linux VPS` |
 
 </div>
 
 ---
 
-### 🚀 Dự án nổi bật (Featured Projects)
+### 🚀 Dự án tiêu biểu (Selected Projects)
 
-#### 🌊 [FloodOS](https://vuquanganh.vercel.app/#projects) — `OLP PMNM 2026` · `Zero-Trust` · `BPMN 2.0`
-> **Hệ điều hành mã nguồn mở điều phối ứng phó ngập lụt đô thị Hà Nội (DX-OS Open-Core track).**
-- **BPMN 2.0:** Mô hình hóa 5 tác nhân, tự động hóa quy trình SOP-01 (điều phối cứu trợ) & SOP-02 (sự cố phương tiện) trên Flowable với thang điểm 100.
-- **Zero-Trust Security:** SSO OIDC qua Keycloak, APISIX Edge validation, phân quyền 2 lớp (RBAC + Row-Level Security), SHA-256 audit ledger.
-- **Backend & AI:** Pipeline xử lý Kafka + MQTT, Java 21, PostgreSQL 16; bản đồ React 19 + MapLibre GL; trợ lý FastAPI hỗ trợ ra quyết định.
+- 🌊 **[Floodos-hou/FloodOS](https://github.com/Floodos-hou/FloodOS)** *(OLP PMNM 2026 — DX-OS Open-Core track)*: Hệ điều hành mã nguồn mở điều phối ứng phó ngập lụt đô thị Hà Nội.
+  - Tự động hóa quy trình nghiệp vụ chuẩn **BPMN 2.0** trên **Flowable Engine** (SOP-01 cứu hộ & SOP-02 sự cố).
+  - Kiến trúc bảo mật **Zero-Trust**: Keycloak OIDC/PKCE, APISIX Edge Gateway, RBAC + PostgreSQL Row-Level Security, ClamAV & SHA-256 ledger.
+  - Lõi hướng sự kiện **Kafka + MQTT**, **Java 21**, **PostgreSQL 16**, giao diện tác chiến thời gian thực **React 19 + MapLibre GL** và trợ lý **FastAPI**.
+  - 🔗 *[Mã nguồn GitHub](https://github.com/Floodos-hou/FloodOS) &nbsp;|&nbsp; [Demo & Chi tiết Case Study](https://vuquanganh.vercel.app/#projects)*
 
-<br/>
+- 💼 **[Startup-Kit-BE](https://github.com/AnhQuangVu/Startup-Kit-BE)** & **[StartupKit-fe](https://github.com/AnhQuangVu/StartupKit-fe)** *(2025 — 2026)*: Nền tảng kết nối hai chiều (Two-sided Marketplace) giữa Startups, Mentors và Nhà đầu tư.
+  - Chuẩn hóa 5 luồng tác nhân trên DFD, 6 quy trình nghiệp vụ và các luồng thu phí dịch vụ.
+  - Thuật toán AI tạo hồ sơ thông minh và ghép nối cố vấn/nhà đầu tư phù hợp.
+  - Backend RESTful API với **Java Spring Boot**, **Spring Security + JWT**, **PostgreSQL** và **Docker**.
+  - 🔗 *[Backend API](https://github.com/AnhQuangVu/Startup-Kit-BE) &nbsp;|&nbsp; [Frontend UI](https://github.com/AnhQuangVu/StartupKit-fe)*
 
-<div align="center">
-  <p><b>Dự án trên GitHub:</b></p>
-  <a href="https://github.com/AnhQuangVu/Startup-Kit-BE">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AnhQuangVu&repo=Startup-Kit-BE&theme=tokyonight&border_color=E5383B&bg_color=0D1117&title_color=E5383B&icon_color=E5383B&text_color=94A3B8" alt="Startup-Kit-BE" />
-  </a>
-  <a href="https://github.com/AnhQuangVu/StartupKit-fe">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AnhQuangVu&repo=StartupKit-fe&theme=tokyonight&border_color=E5383B&bg_color=0D1117&title_color=E5383B&icon_color=E5383B&text_color=94A3B8" alt="StartupKit-fe" />
-  </a>
-</div>
+*(Xem thêm mã nguồn các dự án đã ghim tại mục **Pinned** bên dưới 👇)*
 
 ---
 
